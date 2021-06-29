@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Welcome to supim.art",
+    "description": "",
+    "home_page_url": "https://supim-art.github.io/supim-website",
+    "feed_url": "https://supim-art.github.io/supim-website/feed.json",
+    "user_comment": "",
+    "icon": "https://supim-art.github.io/supim-website/media/website/supim-art-logo-github-io.png",
+    "author": {
+        "name": "supim.art"
+    },
+    "items": [
+    ]
+}

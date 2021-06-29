@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://supim-art.github.io/supim-website/sitemap.xml
